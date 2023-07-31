@@ -1,5 +1,5 @@
-# Ignore sigle file
-new-file.txt
+# Ignore single file
+another-new-file.txt
 
 # Ignore all files in folder
 /bin
